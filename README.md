@@ -4,6 +4,6 @@ This paper provides a data-driven method for traffic phase and detector type det
 ![Alt text](phase.png?raw=true "Title")
 
 In this study, we used high-resolution event data for Dodge Street corridors of Omaha in Nebraska and Foothill drive and 20th highway in Utah. There are 9 intersections along Dodge street corridor and 9 intersections in Foothill drive street. We used five and four day’s data for Highway 20th street and foothill corridors in Utah, and six days’ data for Dodge street corridors in Omaha, Nebraska. (Bellow) shows the location of these three corridors in our analysis.
-![Alt text](dodge.png.jpeg?raw=true "Title")
+![Alt text](dodge.png.jpg?raw=true "Title")
 ![Alt text](foothil.png?raw=true "Title")
-![Alt text](20.png?raw=true "Title")
+![Alt text](20.png.jpg?raw=true "Title")
